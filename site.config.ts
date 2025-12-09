@@ -63,3 +63,6 @@ export default siteConfig({
   //   }
   // ]
 })
+
+export const postsPerPage = 50;
+export const postsPerPageMobile = 50;
